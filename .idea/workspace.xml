@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="731db337-1e57-41c5-a7f8-c3a2877d68f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaseFunction/StartBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/relevel/relevelmodule/AssignmentGmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/relevel/relevelmodule/FlipkartLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/relevel/relevelmodule/GmailUsingAxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/relevel/relevelmodule/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/relevel/relevelmodule/MakeMyTripLogin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2EbxXRkV5M1Ro0t5AAL0YDN2wnV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/palas/IdeaProjects/RelevelSeleniumModule/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\palas\IdeaProjects\RelevelSeleniumModule\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.relevel.relevelmodule" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MakeMyTripLogin">
+    <configuration name="AssignmentGmailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.relevel.relevelmodule.AssignmentGmailTest" />
+      <module name="RelevelSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.relevel.relevelmodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlipkartLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.relevel.relevelmodule.FlipkartLogin" />
+      <module name="RelevelSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.relevel.relevelmodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmailUsingAxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.relevel.relevelmodule.GmailUsingAxes" />
+      <module name="RelevelSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.relevel.relevelmodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.relevel.relevelmodule.Main" />
+      <module name="RelevelSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.relevel.relevelmodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeMyTripLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.relevel.relevelmodule.MakeMyTripLogin" />
+      <module name="RelevelSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.relevel.relevelmodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MakeMyTripLogin" />
+        <item itemvalue="Application.GmailUsingAxes" />
+        <item itemvalue="Application.FlipkartLogin" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AssignmentGmailTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="731db337-1e57-41c5-a7f8-c3a2877d68f0" name="Changes" comment="" />
+      <created>1662878127282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662878127282</updated>
+    </task>
+    <servers />
+  </component>
+</project>
